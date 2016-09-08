@@ -1,14 +1,14 @@
 /******************************************************************************
- *  Compilation:  javac PakGanern.java
- *  Execution:    java PakGanern times
+ *  	Compilation:  javac PakGanern.java
+ *  	Execution:    java PakGanern times
  *  
- *  Outputs the game "Pak Ganern" with a given input of how many
+ *  	Outputs the game "Pak Ganern" with a given input of how many
  *	times the game will be played until it is over.
  *
  *	% java PakGanern 0
  *	Invalid input.
  *
- *  % java PakGanern 1
+ *	% java PakGanern 1
  *	pak
  *	pak ganern
  *
