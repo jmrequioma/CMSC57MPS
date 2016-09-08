@@ -1,6 +1,3 @@
-import java.io.*;
-import java.util.Scanner;
-
 /******************************************************************************
  *  Compilation:  javac PakGanern.java
  *  Execution:    java PakGanern times
