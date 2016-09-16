@@ -23,7 +23,7 @@
 public class PakGanern {
 
 	private static void compSimulation(int given) {
-		if (given == 0) {
+		if (given <= 0) {
 			System.out.println("Invalid input");
 		} else {
 			System.out.println("pak");
